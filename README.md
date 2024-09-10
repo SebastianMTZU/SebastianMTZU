@@ -1,7 +1,6 @@
+        <img src="123.png" alt="Imagen">
 - 👋 Hi, I’m @SebastianMTZU
 
-  
-![Texto alternativo](R.jpg)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
