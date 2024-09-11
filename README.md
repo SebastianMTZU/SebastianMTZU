@@ -1,7 +1,7 @@
 <hr style="border: 1px">
 
 ![SEBASTIAMTZU](123.png)
- 👋 _**Hi, I’m Sebas**_
+        ➫  Hi, I’m Sebas  ❒
 <hr style="border: 1px">
 
 - 👀 I’m interested in ...
