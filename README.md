@@ -1,25 +1,24 @@
-
-<h1 align="center">¡Hola! Soy Sebas 👋</h1>
+<h1 align="center">Hello! I'm Sebas 👋</h1>
 
 <p align="center">
   <img src="123.png">
 </p>
 
-<h3 align="center">Soy un estudiante de programación apasionado por aprender nuevas tecnologías 💻</h3>
+<h3 align="center">I am a programming student passionate about learning new technologies 💻</h3>
 
 <hr style="border: 1px">
 <br><br>
 
-<h2>Sobre mí</h2>
+<h2>About Me</h2>
 <ul>
-  <li>🎓 Soy un estudiante universitario @UABJO </li>
-  <li>📚 Me encanta aprender lenguajes de programación como HTML, CSS, y más</li>
-  <li>💡 Actualmente estoy trabajando en mi tarea</li>
+  <li>🎓 I am a university student @UABJO</li>
+  <li>📚 I love learning programming languages like HTML, CSS, and more</li>
+  <li>💡 I am currently working on my homework</li>
 </ul>
 <hr style="border: 1px">
 <br><br>
 
-<h2>🌐 Conéctate conmigo</h2>
+<h2>🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://t.me/tu-telegram" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -35,7 +34,7 @@
 <hr style="border: 1px">
 <br><br>
 
-<h2>🛠️ Lenguajes y Herramientas</h2>
+<h2>🛠️ Languages and Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -45,7 +44,7 @@
 <hr style="border: 1px">
 <br><br>
 
-<h2>📊 Estadísticas</h2>
+<h2>📊 Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-github&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-github&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
