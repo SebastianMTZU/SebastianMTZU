@@ -1,13 +1,23 @@
 <h1 align="center">¡Hola! 👋</h1>
 
-<img src="123.png">
+<p align="center">
+  <img src="123.png">
 </p>
 
 <h3 align="center">Soy un estudiante de programación apasionado por aprender nuevas tecnologías 💻</h3>
 
-
+<!-- Barra espaciadora -->
 <br><br>
 
+>
+<br><br>
+
+<h2>Sobre mí</h2>
+<ul>
+  <li>🎓 Soy un estudiante universitario en [tu universidad]</li>
+  <li>📚 Me encanta aprender lenguajes de programación como HTML, CSS, y más</li>
+  <li>💡 Actualmente estoy trabajando en [tu proyecto actual]</li>
+</ul>
 <h2>🌐 Conéctate conmigo</h2>
 <p align="center">
   <a href="https://t.me/tu-telegram" target="_blank">
@@ -21,16 +31,7 @@
   </a>
 </p>
 
-<!-- Barra espaciadora -->
-<br><br>
-
-<h2>Sobre mí</h2>
-<ul>
-  <li>🎓 Soy un estudiante universitario de la UABJO</li>
-  <li>📚 Me encanta aprender lenguajes de programación como HTML, CSS, y más</li>
-  <li>💡 Actualmente estoy trabajando en mi perfil </li>
-</ul>
-
+<!-- Barra espaciadora --
 <!-- Barra espaciadora -->
 <br><br>
 
@@ -48,11 +49,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu-github&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
-
-
-
-
-<!---
-SebastianMTZU/SebastianMTZU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
