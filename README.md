@@ -1,5 +1,5 @@
 
-<h1 align="center">¡Hola! 👋</h1>
+<h1 align="center">¡Hola! Soy Sebas 👋</h1>
 
 <p align="center">
   <img src="123.png">
